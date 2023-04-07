@@ -1,2 +1,3 @@
-# AED1
-Repositório para os trabalhos da disciplina Algoritmos e Estruturas de Dados 1, ministrada pela professora Marcela Xavier no semestre 2019/2 da Universidade Federal de São Carlos.
+# T3: Células adjacentes em uma matriz
+
+O terceiro trabalho consiste na resolução de um problema a partir da contagem das células adjacentes a uma determinada área em uma matriz.
