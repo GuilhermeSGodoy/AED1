@@ -1,0 +1,5 @@
+Usando n=20, m=1, resultado=9
+Usando n=20, m=2, resultado=13
+Usando n=20, m=3, resultado=18
+Usando n=20, m=4, resultado=2
+Usando n=20, m=5, resultado=1

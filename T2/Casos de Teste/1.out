@@ -1,0 +1,3 @@
+Usando n=10, m=1, resultado=5
+Usando n=10, m=2, resultado=10
+Usando n=10, m=3, resultado=6

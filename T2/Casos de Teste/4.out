@@ -1,0 +1,3 @@
+Usando n=100000, m=1, resultado=68929
+Usando n=100000, m=2, resultado=59905
+Usando n=100000, m=3, resultado=44007

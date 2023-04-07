@@ -1,0 +1,5 @@
+Usando n=33, m=7, resultado=30
+Usando n=33, m=8, resultado=28
+Usando n=33, m=9, resultado=16
+Usando n=33, m=10, resultado=26
+Usando n=33, m=11, resultado=13
